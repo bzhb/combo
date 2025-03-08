@@ -1,0 +1,2 @@
+{:deps {org.clojure/clojure {:mvn/version "1.9.0"}
+        dev.weavejester/medley {:mvn/version "1.8.1"}}}
